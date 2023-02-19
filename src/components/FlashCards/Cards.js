@@ -1,6 +1,5 @@
 import React, { useState, useEffect } from "react";
 import "./Cards.css";
-// import deck1 from './Deck1.json';
 
 import Card from "./Card";
 
@@ -8,11 +7,11 @@ export default function Cards() {
   const [flashcarddata, setFlashcarddata] = useState([]);
   useEffect(() => {
     const url =
-      "https://api.airtable.com/v0/appqY5UZYlf41Q5VT/Table%201?api_key=keyPZ9SKzXIt4Ek1v";
+      "http://localhost:8000/records";
     fetch(url)
       .then((response) => response.json())
       .then((json) => {
-        setFlashcarddata(json.records);
+        setFlashcarddata(json);
       }, []);
   });
 

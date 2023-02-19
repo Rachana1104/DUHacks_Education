@@ -44,7 +44,13 @@ const Navbar = () => {
                 </li>
 
                 <li>
-                  <Link to="/communication">Communication</Link>
+                  <Link to="/interview">Communication</Link>
+                </li>
+                <li>
+                  <Link to="/videochat">VideoChat</Link>
+                </li>
+                <li>
+                  <Link to="/calendar">Calendar</Link>
                 </li>
                 <li>
                   <Link to="/profile">Profile</Link>

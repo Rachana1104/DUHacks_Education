@@ -4,152 +4,32 @@
             "id": "1",
             
             "fields": {
-                "side1": "occasionally",
-                "side2": "af en toe"
+                "side1": "cos(A+B)",
+                "side2": "cosA cosB-sinA sinB"
             }
         },
         {
             "id": "2",
             
             "fields": {
-                "side1": "moderate",
-                "side2": "gematigd"
+                "side1": "cos(A-B)",
+                "side2": "cosA cosB + sinA sinB"
             }
         },
         {
             "id": "3",
             
             "fields": {
-                "side1": "for the time being",
-                "side2": "voorlopig"
+                "side1": "sin(A+B)",
+                "side2": "sinA cosB + cosA sinB"
             }
         },
         {
             "id": "4",
             
             "fields": {
-                "side1": "current",
-                "side2": "huidige"
-            }
-        },
-        {
-            "id": "5",
-            
-            "fields": {
-                "side1": "To make",
-                "side2": "maaken"
-            }
-        },
-        {
-            "id": "6",
-            
-            "fields": {
-                "side1": "fertile",
-                "side2": "vruchtbaar"
-            }
-        },
-        {
-            "id": "7",
-            
-            "fields": {
-                "side1": "to turn out",
-                "side2": "blijken"
-            }
-        },
-        {
-            "id": "8",
-            
-            "fields": {
-                "side1": "To eat",
-                "side2": "Eten"
-            }
-        },
-        {
-            "id": "9",
-            
-            "fields": {
-                "side1": "to take over",
-                "side2": "overnemen"
-            }
-        },
-        {
-            "id": "10",
-            
-            "fields": {
-                "side1": "border",
-                "side2": "grens"
-            }
-        },
-        {
-            "id": "11",
-            
-            "fields": {
-                "side1": "manager",
-                "side2": "leidinggevende"
-            }
-        },
-        {
-            "id": "12",
-            
-            "fields": {
-                "side1": "To drink",
-                "side2": "Drinken"
-            }
-        },
-        {
-            "id": "13",
-           
-            "fields": {
-                "side1": "heavy",
-                "side2": "zwaar"
-            }
-        },
-        {
-            "id": "14",
-            
-            "fields": {
-                "side1": "face",
-                "side2": "gezicht, het"
-            }
-        },
-        {
-            "id": "15",
-            
-            "fields": {
-                "side1": "soft",
-                "side2": "zacht"
-            }
-        },
-        {
-            "id": "16",
-            
-            "fields": {
-                "side1": "decision",
-                "side2": "beslissing, de"
-            }
-        },
-        {
-            "id": "17",
-            
-            "fields": {
-                "side1": "Good morning",
-                "side2": "Goedemorgen"
-            }
-        },
-        {
-            "id": "18",
-            
-            "fields": {
-                "side1": "therapy",
-                "side2": "behandeling, de"
-            }
-        },
-        {
-            "id": "19",
-        
-            "fields": {
-                "side1": "hilly",
-                "side2": "heuvelachtig"
+                "side1": "sin(A-B)",
+                "side2": "sinA cosB -cosA sinB"
             }
         }
     ]
